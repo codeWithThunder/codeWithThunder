@@ -1,6 +1,6 @@
 <img aligh="center" alt="Coding" width="1080" src="https://scontent.fdac27-2.fna.fbcdn.net/v/t39.30808-6/292609241_417247693674802_7836263570700509987_n.jpg?stp=dst-jpg_s1080x2048&_nc_cat=105&ccb=1-7&_nc_sid=e3f864&_nc_ohc=1VOBHxeg6RgAX862x-o&_nc_ht=scontent.fdac27-2.fna&oh=00_AT-YZr_lutRAJcDtEtL-nWcEvkUlGcACgfCNZ4o64KHdKw&oe=62CEFAE0" >
 
-<h1 align="center">Hi 👋, I'm CodeWithThunder</h1>
+<h1 align="center">Hi 👋, I'm Atikulla</h1>
 <h3 align="center">A passionate Web developer from Bangladesh.</h3>
 
 <img aligh="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966" >
